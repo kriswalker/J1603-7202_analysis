@@ -1,0 +1,10 @@
+a051113_233623.rf.pcm.dynspec
+a051220_192253.rf.pcm.dynspec
+a070121_033411.rf.pcm.dynspec
+a070121_165621.rf.pcm.dynspec
+a070217_014711.rf.pcm.dynspec
+a071217_184452.rf.pcm.dynspec
+s131014_042103.rf.pcm.dynspec
+t131014_042102.rf.pcm.dynspec
+s140426_140812.rf.pcm.dynspec
+t140426_140757.rf.pcm.dynspec
