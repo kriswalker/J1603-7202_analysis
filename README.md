@@ -18,4 +18,4 @@ Below is a list of the included `.py` files, with a short description of their p
 
 * `differential_rotation.py`: calculates the contribution to the velocity from differential rotation of the galaxy, as described in Section 6.2 of the paper.
 
-For questions and comments, please contact the corresponding author at kwal0009@student.monash.edu.
+For questions and comments, please contact the corresponding author at kris.walker.astro@gmail.com.
